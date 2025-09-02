@@ -1,2 +1,2 @@
 # practice_prob1
-C program to calculate the area of rectangle
+C program to calculate the area of rectangle using hard coded inputs.
